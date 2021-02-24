@@ -49,6 +49,7 @@ ul.header li a {
   position:absolute;
   bottom:0;
   width:100%;
+  font: 20;
   font-family: sans-serif;
   text-align: center;
 
