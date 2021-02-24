@@ -3,14 +3,16 @@ body {
   padding: 20px;
   margin: 0;
 }
-h2, p, ul, li {
-  font-family: sans-serif;
-}
+
 h1 {
   font-family: sans-serif;
   text-align: center;
-
 }
+
+h2, p, ul, li {
+  font-family: sans-serif;
+}
+
 ul.header li {
   display: inline;
   list-style-type: none;
@@ -40,4 +42,14 @@ ul.header li a {
 }
 .active {
   background-color: #0099FF;
+}
+
+.footer{
+
+  position:absolute;
+  bottom:0;
+  width:100%;
+  font-family: sans-serif;
+  text-align: center;
+
 }
