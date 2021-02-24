@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Trabalho final para disciplina de Framework - React
+Profº Samuel
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
