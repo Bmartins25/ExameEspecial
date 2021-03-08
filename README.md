@@ -3,7 +3,7 @@ Profº Samuel
 
 Tive problemas para subidas de tags professor com meu git e criação de branch em outro repositório meu aqui do github.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
