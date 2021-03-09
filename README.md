@@ -2,7 +2,8 @@
 Profº Samuel
 
 Tive problemas para subidas de tags professor com meu git e criação de branch em outro repositório meu aqui do github.
-Favor considerar as alterações finais no arquivo enviado por e-mail.
+Favor considerar as alterações finais no arquivo enviado zipado por e-mail.
+Abraços e obrigado!
 
 
 
