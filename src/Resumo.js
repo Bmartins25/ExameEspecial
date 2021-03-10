@@ -1,21 +1,47 @@
 import React, { Component } from "react";
+//import React, { Component } from "./Modelo";
+//import React, { Component } from "./Cor";
+//import React, { Component } from "./Versão";
+//import React, { Component } from "./Opcionais";
+
  
 class Resumo extends Component {
   render() {
     return (
       <div>
-        <h2>HELLO</h2>
-        <p>Cras facilisis urna ornare ex volutpat, et
-        convallis erat elementum. Ut aliquam, ipsum vitae
-        gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-        metus nec massa. Maecenas hendrerit laoreet augue
-        nec molestie. Cum sociis natoque penatibus et magnis
-        dis parturient montes, nascetur ridiculus mus.</p>
+        <h2>Resumo da solicitação:</h2>
+        <p>Exemplo Estático</p>
+
+
+
+        <p> Sedan --------------------------------- R$ 0,00</p>
+        
+        <p> Onix --------------------------------- R$ 55.000,00</p>
+        
+        <p> Vermelho --------------------------------- R$ 0,00</p>
+        
+        <p> GPS --------------------------------- R$ 100,00</p>
+        <br></br>
+        <p><u><b>Total</b></u> ----------------------------------- R$ 55.100,00</p>
  
-        <p>Duis a turpis sed lacus dapibus elementum sed eu lectus.</p>
+        
       </div>
     );
-  }
+      /*
+    render((
+      
+        <Route path='/' component={App}>
+          <Route path='Modelo' component={}/>
+          <Route path='Versão' component={} />
+          <Route path='Cor' component={}/>
+          <Route path='Opcionais' component={}/>
+        </Route>
+      </Router>
+    ), document.getElementById('root'));
+    */
+
+  } // Faltando função ou rota, infelizmente não consegui a tempo para estudar e adaptar ao projeto professor.
+   // Favor avaliar consideração.
 }
  
 export default Resumo;
